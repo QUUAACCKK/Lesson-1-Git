@@ -1,0 +1,4 @@
+size(500,500);
+
+rect(mouseX,mouseY,80,50);
+fill(0,0,255);
